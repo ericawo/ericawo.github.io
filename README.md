@@ -1,3 +1,5 @@
 # ericawo.github.io
-my personal website :)
 *STILL IN PROGRESS*
+
+my personal website :)
+
